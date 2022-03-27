@@ -2,4 +2,4 @@
 
 ---
 
-### You can check preview at https://eager-wilson-110dd1.netlify.app
+### You can check preview at https://mini-youtube-frane.netlify.app
