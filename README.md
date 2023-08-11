@@ -2,4 +2,4 @@
 
 ---
 
-### You can check preview at https://mini-youtube-frane.netlify.app
+### You can check the preview at https://mini-youtube-frane.netlify.app
