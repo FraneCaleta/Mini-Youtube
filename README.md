@@ -1,4 +1,4 @@
-### Simple youtube application created with React by using YouTube Data API v3
+### Basic Youtube application created with [React](https://react.dev/) by using YouTube Data API v3
 
 ---
 
